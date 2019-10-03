@@ -1,0 +1,4 @@
+include ':app', ':viewouts'
+
+rootProject.name='Viewouts'
+
