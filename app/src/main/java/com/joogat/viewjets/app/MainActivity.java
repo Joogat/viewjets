@@ -1,4 +1,4 @@
-package com.joogat.viewouts.app;
+package com.joogat.viewjets.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 

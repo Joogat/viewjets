@@ -1,4 +1,4 @@
-include ':app', ':viewouts'
+include ':app', ':viewjets'
 
 rootProject.name='Viewouts'
 

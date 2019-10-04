@@ -1,4 +1,4 @@
-package com.joogat.viewouts;
+package com.joogat.viewjets;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

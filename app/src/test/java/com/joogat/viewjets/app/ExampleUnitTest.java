@@ -1,4 +1,4 @@
-package com.joogat.viewouts.app;
+package com.joogat.viewjets.app;
 
 import org.junit.Test;
 

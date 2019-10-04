@@ -1,4 +1,4 @@
-package com.joogat.viewouts;
+package com.joogat.viewjets;
 
 import android.content.Context;
 import android.content.res.TypedArray;

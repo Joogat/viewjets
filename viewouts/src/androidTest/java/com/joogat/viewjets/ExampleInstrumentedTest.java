@@ -1,4 +1,4 @@
-package com.joogat.viewouts;
+package com.joogat.viewjets;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.joogat.viewouts.test", appContext.getPackageName());
+        assertEquals("com.joogat.viewjets.test", appContext.getPackageName());
     }
 }
